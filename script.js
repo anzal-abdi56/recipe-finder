@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:3000/recipes";
+const API_URL = "https://recipe-finder-jpeh.onrender.com/recipes";
 
 document.getElementById("showFormButton").addEventListener("click", function() {
     const formContainer = document.getElementById("formContainer");
