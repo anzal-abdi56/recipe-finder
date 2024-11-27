@@ -1,0 +1,70 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "name": "Spaghetti Carbonara",
+      "image": "https://images.pexels.com/photos/12557557/pexels-photo-12557557.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "ingredients": "spaghetti, eggs, Parmesan cheese, pancetta, black pepper"
+    },
+    {
+      "id": "2",
+      "name": "Chicken Alfredo",
+      "image": "https://images.pexels.com/photos/13294544/pexels-photo-13294544.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "ingredients": "fettuccine, chicken breast, heavy cream, Parmesan cheese, garlic"
+    },
+    {
+      "id": "3",
+      "name": "Beef Tacos",
+      "image": "https://images.pexels.com/photos/7613568/pexels-photo-7613568.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "ingredients": "ground beef, taco shells, lettuce, cheese, salsa, sour cream"
+    },
+    {
+      "id": "4",
+      "name": "Vegetable Stir Fry",
+      "image": "https://images.pexels.com/photos/28895973/pexels-photo-28895973/free-photo-of-delicious-asian-stir-fried-noodles-in-white-bowl.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "ingredients": "broccoli, bell peppers, carrots, soy sauce, garlic, ginger"
+    },
+    {
+      "id": "5",
+      "name": "Caprese Salad",
+      "image": "https://images.pexels.com/photos/7392609/pexels-photo-7392609.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "ingredients": "tomatoes, fresh mozzarella, basil, olive oil, balsamic vinegar"
+    },
+    {
+      "id": "6",
+      "name": "Garlic Bread",
+      "image": "https://images.pexels.com/photos/1775043/pexels-photo-1775043.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "ingredients": "bread, butter, garlic, parsley, Parmesan cheese"
+    },
+    {
+      "id": "7",
+      "name": "Cheese Omelette",
+      "image": "https://images.pexels.com/photos/14122654/pexels-photo-14122654.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "ingredients": "eggs, cheese, butter, salt, pepper"
+    },
+    {
+      "id": "8",
+      "name": "Chicken Caesar Salad",
+      "image": "https://images.pexels.com/photos/28618645/pexels-photo-28618645/free-photo-of-grilled-chicken-with-fresh-caesar-salad.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "ingredients": "romaine lettuce, chicken breast, Parmesan cheese, croutons, Caesar dressing"
+    },
+    {
+      "id": "9",
+      "name": "Shrimp Scampi",
+      "image": "https://images.pexels.com/photos/8697539/pexels-photo-8697539.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "ingredients": "shrimp, garlic, butter, white wine, lemon"
+    },
+    {
+      "id": "10",
+      "name": "Garlic Parmesan Pasta",
+      "image": "https://images.pexels.com/photos/3606799/pexels-photo-3606799.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "ingredients": "pasta, garlic, butter, Parmesan cheese, parsley"
+    },
+    {
+      "id": "6d54",
+      "name": "Mac and Cheese",
+      "image": "https://images.pexels.com/photos/1437267/pexels-photo-1437267.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "ingredients": "macaroni, butter, all-purpose flour, milk, cheddar cheese, salt, black pepper, paprika, bread crumbs, parmesan cheese"
+    }
+  ]
+}
